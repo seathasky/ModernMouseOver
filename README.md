@@ -1,4 +1,5 @@
 # ModernMouseOver
+![ModernMouseOver Icon](https://raw.githubusercontent.com/seathasky/ModernMouseOver/refs/heads/main/mmm_icon.png)
 
 **Simple mouseover macro creator for WoW 3.3.5. private servers**
 
