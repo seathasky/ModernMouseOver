@@ -1,0 +1,7 @@
+## Interface: 30300
+## Version: 1.0
+## Title: ModernMouseOver
+## Notes: Macro generator for perfect mouseover casting. Automatically adds macro to hotbar.
+## Author: Seathasky
+ModernMouseOver.lua
+ModernMouseOver.xml
